@@ -1,0 +1,7 @@
+{
+  "name": "atividadegui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

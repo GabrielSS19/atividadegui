@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "atividadegui",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
